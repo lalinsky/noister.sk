@@ -1,9 +1,9 @@
-title: Noister s. r. o.
+title: Noister s.r.o.
 email: noister@lalinsky.com
 url: https://noister.sk
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   date_format: "%Y-%m-%d"
   show_description: false
