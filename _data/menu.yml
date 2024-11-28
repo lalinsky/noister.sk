@@ -1,10 +1,10 @@
 entries:
-  - title: who?
-    entries:
-      - title: Lukáš Lalinský
-        url: https://lalinsky.com
   - title: what?
     entries:
       - title: software architecture, development and testing
       - title: server infrastructure management
       - title: IT consulting
+  - title: who?
+    entries:
+      - title: Lukáš Lalinský
+        url: https://lalinsky.com
